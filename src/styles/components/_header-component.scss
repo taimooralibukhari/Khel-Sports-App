@@ -1,0 +1,37 @@
+.nav-bar{
+  margin: 1rem;
+  display: flex;
+  // border: 2px solid white;
+  width: auto;
+}
+
+.logo-header {
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+  font-family: "Showcard Gothic";
+  font-size: $xl-size;
+  font-weight: bolder;
+  text-shadow: 3px 3px 5px black;
+  margin-right: 37vw;
+  margin-left: 41vw;
+  // border: 3px solid red;
+  width: 100%;
+}
+  
+.logo-sub__heading {
+  margin-top: 1rem;
+  text-align: center;
+  color: white;
+  font-family: "Segoe UI";
+  font-size: $m-size;
+  font-weight: bolder;
+  // border: 3px solid white;
+  width: 100%;
+}
+
+
+.avatar {
+  // border: 2px solid red;
+  cursor: pointer;
+}

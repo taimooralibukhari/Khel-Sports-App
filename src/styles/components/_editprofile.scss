@@ -1,0 +1,19 @@
+.change-avatar {
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    // border: 2px solid white;
+}
+
+.change-avatar > .change-dp {
+    margin-top: 2rem;
+    color: white;
+    font-family: "Segoe UI";
+    font-size: $m-size;
+    font-weight: lighter;
+    text-shadow: 3px 3px 5px black;
+    // border: 3px solid white;
+}
+
